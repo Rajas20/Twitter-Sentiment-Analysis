@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis
 
-This project focuses on building a machine learning model using NLP techniques to analyze the sentiment of tweets — classifying them as either **positive** or **negative**. It uses the **Sentiment140** dataset containing 1.6 million tweets and applies a **Logistic Regression** model for prediction.
+This project focuses on building a machine learning model using NLP techniques to analyze the sentiment of tweets — classifying them as either **positive** or **negative**. It uses the **Sentiment140** dataset containing 1.6 million tweets and applies a **Logistic Regression** model for Classification and then prediction.
 
 ---
 
