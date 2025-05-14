@@ -15,14 +15,13 @@ This project focuses on building a machine learning model using NLP techniques t
 ##  Workflow
 
 1. **Data Collection**
-   - Downloaded via Kaggle API (using a `kaggle.json` file for authentication)
    
 2. **Data Preprocessing**
    - Removal of noise (usernames, URLs, punctuation)
    - Lowercasing
    - Tokenization
-   - Stopword removal (`nltk.corpus.stopwords`)
-   - Stemming (`nltk.stem.PorterStemmer`)
+   - Stopword removal 
+   - Stemming ('PorterStemmer')
    
 3. **Feature Extraction**
    - Used `TfidfVectorizer` to convert text into numerical feature vectors
