@@ -15,7 +15,7 @@ This project focuses on building a machine learning model using NLP techniques t
 ##  Workflow
 
 1. **Data Collection**
-   
+      
 2. **Data Preprocessing**
    - Removal of noise (usernames, URLs, punctuation)
    - Lowercasing
