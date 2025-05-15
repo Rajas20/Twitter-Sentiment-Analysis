@@ -41,11 +41,11 @@ This project focuses on building a machine learning model using NLP techniques t
 | Tool/Library | Purpose |
 |--------------|---------|
 | **Python** | Programming language |
-| **Pandas** | Data manipulation |
+| **Pandas** | Data manipulation & Analysis|
 | **NumPy** | Numerical operations |
 | **NLTK** | Natural Language Processing (stopwords, stemming) |
-| **re** | Regular expressions for text cleaning |
-| **Scikit-learn** | ML model, vectorization, evaluation |
+| **re** | Regular expressions for text matching and cleaning |
+| **Scikit-learn** | ML model, vectorization, evaluation (TfidfVectorizer,train_test_split,LogisticRegression,accuracy_score)|
 | **Kaggle API** | Dataset download |
 
 ---
