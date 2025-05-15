@@ -45,7 +45,7 @@ This project focuses on building a machine learning model using NLP techniques t
 | **NumPy** | Numerical operations |
 | **NLTK** | Natural Language Processing (stopwords, stemming) |
 | **re** | Regular expressions for text matching and cleaning |
-| **Scikit-learn** | ML model, vectorization, evaluation (TfidfVectorizer,train_test_split,LogisticRegression,accuracy_score)|
+| **Scikit-learn** | ML model, vectorization, evaluation (TfidfVectorizer , Train_test_split , LogisticRegression , accuracy_score)|
 | **Kaggle API** | Dataset download |
 
 ---
