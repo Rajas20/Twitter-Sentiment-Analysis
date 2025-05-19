@@ -55,5 +55,4 @@ This project focuses on building a machine learning model using NLP techniques t
 
 - **Model Used**: Logistic Regression
 - **Evaluation Metric**: Accuracy Score
-- **Model Accuracy**: 77.6%
 
